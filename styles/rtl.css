@@ -1,0 +1,78 @@
+body { direction: rtl }
+.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 { float: right }
+.sf-menu li { float: right }
+.first-head .sf-menu { float: right }
+.first-head .searchform:before { left: 12px; right: auto }
+span.info { float: left }
+.second-head .sf-menu { float: left }
+.head-social { float: left; margin: 40px 20px 40px 0 }
+.second-head .sf-menu li { margin-right: 10px }
+.second-head .sf-menu li:first-child { margin-right: 0 }
+.sf-menu li:hover ul, .sf-menu li.sfHover ul { right: 0px;left: auto }
+.first-head .sf-menu ul:before, .second-head .sf-menu ul:before { right: 14px;left: auto }
+ul.sf-menu li li:hover ul, ul.sf-menu li li.sfHover ul { right: 184px;left: auto }
+.first-head .sf-menu ul ul:before, .second-head .sf-menu ul ul:before {right: -12px;left: auto;-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-ms-transform: rotate(90deg);-o-transform: rotate(90deg);transform: rotate(90deg);}
+.flexslider { direction: ltr }
+.stunning-box span { margin-left: 30px }
+#toTop i { padding: 10px 15px 0 0 }
+h3.p-title { margin: 0 0 30px 16px }
+.services img { float: right;margin: 0 0 20px 16px }
+.services h4 { float: right }
+.sqii { left: 0; right: auto }
+.sqi { right: 0;left: auto }
+.showcase a p { bottom: -170px }
+.showcase a:hover h3 { bottom: 86px }
+.showcase a h3 { -moz-border-top-right-radius: 3px;border-top-right-radius: 3px;left: auto;right: 10px }
+.showcase a h3 i { -moz-border-top-left-radius: 3px;border-top-left-radius: 3px;right: auto;left: -34px }
+.omega { margin-left: 0; margin-right: 1% }
+.alpha { margin-right: 0; margin-left: 1% }
+.jcarousel-next-horizontal, .jcarousel-prev-horizontal { left: 24px !important;; right: auto !important; }
+.jcarousel-prev-horizontal {left: 0 !important; right: auto !important; }
+#testimonials .flex-direction-nav .flex-next { left: 20px; right: auto }
+#testimonials .flex-direction-nav .flex-prev { left: 6px;right: auto }
+.sf-menu li li a i { padding-left: 8px !important; padding-right: 0 !important}
+.big-slider h3 {right: 10%;left: auto }
+.big-slider p {right: 10%;left: auto }
+.breadcrumb ul li:first-child { padding: 0 0 0 20px }
+.breadcrumb li:before { left: -6px;right: auto }
+.the-list li [class^="icon-"], .the-list li [class*=" icon-"], .the-icons li [class^="icon-"], .the-icons li [class*=" icon-"] {padding-left: 8px;padding-right: 0;}
+.lefttt { float: right }
+.widget-title img { float: right }
+.widget-title h4 { float: right; margin: 8px 10px 0 0 }
+.meta-date {float: right;}
+.post-title-row .post-title { margin: 8px 20px 10px 0; float: right }
+.meta-more {float: right;padding-right: 20px }
+.read-more { float: left }
+.flex-control-paging li a { text-indent: 9999px }
+.tags a i, .meta-links li i, .meta-more i, .accordion-head i, .toggle-head i, .pricingtable ul i { padding-right: 0;padding-left: 8px}
+div.jp-audio, div.jp-audio-stream, div.jp-video { direction: ltr }
+.blockquote { border-right: 5px solid #1ABC9C; border-left: 0 }
+.author .flr { margin: 0 0 0 20px !important }
+.author h3, .author p { float: right }
+ul.showcomments .thumb {float: right;margin: 0 0 0 30px}
+ul.showcomments h4.entry-title i { padding-right: 8px }
+ul.showcomments span.date { float: left }
+.accordion-head-sign, .toggle-head-sign { float: left }
+.filterable { float: left }
+.sb-slider h3 {border-right: 4px solid rgba(255, 255, 255, 0.7);border-left: 0;}
+#slides, .rotating-slider, .modern-slider, .raised { direction: ltr }
+.forum .table th, .forum .table td { text-align: right;padding: 16px 20px 16px 10px }
+.stunning-box2 .stuntext { float: right }
+.stunning-box2 a.btn { float: left }
+.stunning-box2 span { margin-right: 0;margin-left: 30px }
+.dropcap, .dropcap-border { margin: 0px 0 8px 16px;float: right }
+a.notification-close { left: 20px;right: auto }
+.notification-box p i { padding-left: 10px;padding-right: auto;border-left: 1px solid;border-right: 0;margin-left: 10px;margin-right: auto }
+.progress-bar span.lengh { left: 20px;right: auto }
+.progress-bar .progress-bar-text { left: auto;right: 20px }
+.social a, .social-big a, .social-font a { float: right}
+.tabs li {float: right;margin: 0 0 0 3px;}
+.img-testimonials { left: 20px }
+
+div.pp_pic_holder{ direction: ltr !important }
+body { overflow-x: hidden }
+.showcase a:hover h3 { bottom: 64px !important }
+.showcase a h3 { -moz-border-top-right-radius: 3px; border-top-right-radius: 3px; left: auto; right: 10px }
+.showcase a h3 i { -moz-border-top-left-radius: 3px;border-top-left-radius: 3px;right: auto;left: -34px }
+.zoom { left: 10px;right: auto }
+

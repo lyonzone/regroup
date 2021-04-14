@@ -1,0 +1,22 @@
+h3.p-title span, .first-head .sf-menu li.current a, a:hover,#footer a:hover,.tags a:hover,.tweet_list li:hover .icon-twitter,.breadcrumb ul li,.first-head .sf-menu li a:hover,.first-head li:hover > a,.jcarousel-prev-horizontal:hover,.jcarousel-next-horizontal:hover,.social-font a:hover,.error-page i,.catt-menu li:hover .catt-main,.catt-menu li:hover .catt-icon,a.jp-play:hover,a.jp-pause:hover {
+	color:#f1c40f !important
+}
+ul.showcomments .reply a:hover, .second-head .sf-menu li li.current > a, .second-head,.flex-direction-nav a:hover,.flex-control-paging li a.flex-active,.filterable li.current a,.filterable li a:hover,.slides-navigation a.prev:hover,.slides-navigation a.next:hover,div.jp-play-bar,.pagination a:hover,.mslider-arrow:hover,#loginform #subscribe-button:hover,div.jp-volume-bar-value,#subscriptionform #subscribe-button:hover,ul.showcomments li.admin-comment h4.entry-title i,.progress-bar span,.big-slider .flex-direction-nav a,#toTop:hover,.btn-1,.btn-4:hover,#comment-button:hover,#sendMessage:hover,.load-color {
+	background-color:#f1c40f !important
+}
+.blockquote,#inputer:focus,.forum .searchform input:focus,.labele,#clients img:hover,.tags a:hover {
+	border-color:#f1c40f !important
+}
+
+.first-head,.first-head .sf-menu li li a:hover,.btn-4:hover,.big-slider .flex-direction-nav a:hover, .second-head .sf-menu li li a:hover,.stunning-box,.showcase a h3 i,.grid_2 .date,#footer,.table th,.table tfoot td,.pricingtable,.nav-arrows a:hover,.slides-navigation a.prev,div.jp-seek-bar,div.jp-volume-bar,.post .blockquote-post,.flex-direction-nav a,.pagination a,#loginform #subscribe-button,#subscriptionform #subscribe-button,#sendMessage,#mobilepro {
+	background-color:#f39c12 !important
+}
+@media only screen and (max-width: 767px) and (min-width: 480px){
+	.sf-menu a:hover { background-color:#f39c12 !important }
+}
+
+#testimonials .flex-direction-nav a,#testimonials .flex-direction-nav a:hover {background: none !important}
+ul.showcomments .reply a:hover, .filterable li.current a, .filterable li a:hover, .pagination a:hover, .first-head .sf-menu li li a:hover, .second-head .sf-menu li li a:hover, .btn-1:hover {color: #fff !important}
+.first-head, .first-head .searchform input, #footer, .tweet_list .icon-twitter, .first-head .searchform:before {color: #F5F5F5}
+.first-head .searchform input {border-color: #EBEBEB}
+.landing .second-head {opacity: 0.9}

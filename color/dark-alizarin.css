@@ -1,0 +1,51 @@
+h3.p-title span, a:hover,#footer a:hover,.tags a:hover,h3.p-title span,.tweet_list li:hover .icon-twitter, .first-head .sf-menu li.current a ,.breadcrumb ul li,.first-head .sf-menu li a:hover,.jcarousel-prev-horizontal:hover,.jcarousel-next-horizontal:hover,.social-font a:hover,.error-page i,.catt-menu li:hover .catt-main,.catt-menu li:hover .catt-icon,a.jp-play:hover,a.jp-pause:hover {
+	color:#e74c3c !important
+}
+ul.showcomments .reply a:hover, .second-head .sf-menu li li.current > a, .flex-direction-nav a:hover,.slides-pagination a.active,.flex-control-paging li a.flex-active,.filterable li.current a,.filterable li a:hover,.slides-navigation a.prev:hover,.slides-navigation a.next:hover,div.jp-play-bar,.pagination a:hover,.mslider-arrow:hover,#loginform #subscribe-button:hover,div.jp-volume-bar-value,#subscriptionform #subscribe-button:hover,ul.showcomments li.admin-comment h4.entry-title i,.progress-bar span,.big-slider .flex-direction-nav a,#toTop:hover,.btn-1,.btn-4:hover,#comment-button:hover,#sendMessage:hover,.load-color {
+	background-color:#e74c3c !important
+}
+.blockquote,#inputer:focus,.forum .searchform input:focus,.labele,#clients img:hover,.tags a:hover, .forum .subscribetime input:focus {
+	border-color:#e74c3c !important
+}
+
+.first-head .sf-menu li li a:hover,.btn-4:active,#comment-button,.btn-4:hover,.big-slider .flex-direction-nav a:hover, .second-head .sf-menu li li a:hover,.stunning-box,.showcase a h3 i,.grid_2 .date,#footer,.table th,.table tfoot td,.pricingtable,.nav-arrows a:hover,.slides-navigation a.prev,div.jp-seek-bar,div.jp-volume-bar,.post .blockquote-post,.flex-direction-nav a,.pagination a,#loginform #subscribe-button,#subscriptionform #subscribe-button,#sendMessage,#mobilepro {
+	background-color:#c0392b !important
+}
+@media only screen and (max-width: 767px) and (min-width: 480px){
+	.sf-menu a:hover { background-color:#c0392b !important }
+}
+
+#testimonials .flex-direction-nav a,#testimonials .flex-direction-nav a:hover {background: none !important}
+ul.showcomments .reply a:hover, .filterable li.current a, .filterable li a:hover, .pagination a:hover, .first-head .sf-menu li li a:hover, .second-head .sf-menu li li a:hover, .btn-1:hover, h1, h2, h3, h4, h5, h6, a, .progress-bar span.lengh, .testimonial-s strong,.filterable li.current a, .slides-navigation a.prev:hover, .slides-navigation a.next:hover, .filterable li a:hover, .second-head .sf-menu li li.current > a, ul#countdown li span, .active .accordion-head, .active .toggle-head {color: #fff !important}
+.first-head, .first-head .searchform input, #footer, .tweet_list .icon-twitter, .first-head .searchform:before, .blockquote {color: #F5F5F5}
+.first-head .searchform input {border-color: #4D4D4D}
+.landing .second-head {opacity: 0.9}
+
+body {
+	background: url(../images/backgrounds/24.png) repeat fixed #1b1b1b !important;
+	-webkit-background-size: none;
+	-moz-background-size: none;
+	-o-background-size: none;
+	background-size: none;
+	background-attachment: none;
+	color: #F5F5F5 !important
+}
+.boxed, .blocked, .full, .sqi, .sqii, .rm_container ul li { background: #2f2f2f !important }
+.rm_container ul li, .rm_mask_right, .rm_mask_left, .rm_corner_right, .rm_corner_left { background: #222 !important }
+.rm_container ul li { border-color: #222 !important }
+.second-head, #footer, .stunning-box, .stunning-box2, .slides-navigation a.next, .slides-navigation a.prev, #advance { background-color: #252525 !important }
+.first-head, .first-head .sf-menu li li a:hover, .second-head .sf-menu li li a:hover, .second-head .sf-menu li li.current > a { background-color: #2c2c2c !important }
+.sf-menu a:hover, .second-head li:hover > a, .sf-menu li li a, .sf-menu li.current > a, .mega h4, .mega h5,.ca-main,.catt-sub,#slides .slides-container li h3,.catt-main,.single-pager .live-version > span, .single-pager .live-version > a,.single-pager .previous > span, .single-pager .previous > a, .single-pager .next > span, .single-pager .next > a {color:#252525 !important }
+.grey20 { background: #222 !important; border-top: 1px solid #333; border-bottom: 1px solid #333;
+-webkit-box-shadow: inset 0px 3px 0px 0px #333, inset 0px -3px 0px 0px #333;
+-moz-box-shadow: inset 0px 3px 0px 0px #333, inset 0px -3px 0px 0px #333;
+box-shadow: inset 0px 3px 0px 0px #333, inset 0px -3px 0px 0px #333 }
+.pagination a.current, .pagination a.current:hover {background: #505050 !important; color: #CCC !important }
+.author, ul.showcomments li, .blog-three-columns .post { border-color: #3C3C3C !important }
+.single-pager .live-version > span:hover, .single-pager .live-version > a:hover { background: #F5F5F5 }
+.rm_nav a.rm_next { background: rgba(0, 0, 0, 0) url(../images/rotating/next_fff.png) no-repeat top left !important }
+.rm_nav a.rm_prev { background: rgba(0, 0, 0, 0) url(../images/rotating/prev_fff.png) no-repeat top left !important }
+.table tr {border-bottom: 1px solid #333 !important;background-color: #3F3E3E !important }
+.table tr:hover, tr.topic-sticky {background: #525252 !important }
+.tabs li a, .tabs li a.active {background: none !important }
+.tabs li a.active {border-bottom: 2px solid #2f2f2f !important }
